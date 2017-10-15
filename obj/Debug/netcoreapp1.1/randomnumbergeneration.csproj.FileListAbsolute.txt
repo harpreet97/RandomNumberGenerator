@@ -1,0 +1,8 @@
+C:\Users\Owner\desktop\randomnumbergeneration\bin\Debug\netcoreapp1.1\randomnumbergeneration.deps.json
+C:\Users\Owner\desktop\randomnumbergeneration\bin\Debug\netcoreapp1.1\randomnumbergeneration.runtimeconfig.json
+C:\Users\Owner\desktop\randomnumbergeneration\bin\Debug\netcoreapp1.1\randomnumbergeneration.runtimeconfig.dev.json
+C:\Users\Owner\desktop\randomnumbergeneration\obj\Debug\netcoreapp1.1\randomnumbergeneration.AssemblyInfo.cs
+C:\Users\Owner\desktop\randomnumbergeneration\bin\Debug\netcoreapp1.1\randomnumbergeneration.dll
+C:\Users\Owner\desktop\randomnumbergeneration\bin\Debug\netcoreapp1.1\randomnumbergeneration.pdb
+C:\Users\Owner\desktop\randomnumbergeneration\obj\Debug\netcoreapp1.1\randomnumbergeneration.dll
+C:\Users\Owner\desktop\randomnumbergeneration\obj\Debug\netcoreapp1.1\randomnumbergeneration.pdb
